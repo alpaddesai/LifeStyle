@@ -9,5 +9,3 @@ Related topics include: https://github.com/alpaddesai/BenefitsOfFitnessRoutine, 
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
-
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
