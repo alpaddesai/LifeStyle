@@ -10,4 +10,4 @@ Related topics include: https://github.com/alpaddesai/BenefitsOfFitnessRoutine, 
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RankCertificatesUndergraduateDegree
+## Additional details reference https://github.com/alpaddesai/RankCertificatesUndergraduateDegree
