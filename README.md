@@ -10,4 +10,4 @@ Related topics include: https://github.com/alpaddesai/BenefitsOfFitnessRoutine, 
 
 ![image](USCopyrightCertificate.png)
 
-## Popular project https://github.com/alpaddesai/ExecutiveMBA
+### Popular project https://github.com/alpaddesai/ExecutiveMBA
